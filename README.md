@@ -4,12 +4,12 @@
 I'm a passionate **Backend Web Developer** with expertise in **PHP, React.js, MySQL, HTML5, and CSS3**. Currently, I'm also pursuing a **Master of Computer Science** at the **Technical University of Bingen**.
 
 ## 🚀 Skills & Technologies
-- **Web Development:** PHP (Core, CodeIgniter), React.js, JavaScript, HTML5, CSS3, Bootstrap
+- **Web Development:** PHP (Core, CodeIgniter), Node.js, JavaScript, HTML5, CSS3, Bootstrap
 - **Database Management:** MySQL, MariaDB, Oracle SQL Developer
-- **Programming Languages:** Python, Java, ASP.NET, C++, PHP
+- **Programming Languages:** Python, Java, ASP.NET, C++, PHP, Rust
 - **Version Control:** Git
 - **Operating Systems:** Linux, Windows, MacOS
-- **Tools & Software:** Blancco, MS Office (Word, Excel, PowerPoint)
+- **Tools & Software:** MS Office (Word, Excel, PowerPoint), Postman
 
 ## 🏆 Projects
 ### 🔹 Online Mobile Shopping System Website
