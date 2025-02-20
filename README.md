@@ -25,7 +25,7 @@ I'm a passionate **Backend Web Developer** with expertise in **PHP, React.js, My
 
 ## 🌍 Languages
 - **English:** Professional Working Proficiency
-- **German:** Professional Working Proficiency
+- **German:** Professional Working Proficiency(B1)
 - **Gujarati & Hindi:** Native
 
 ## 📫 Connect with Me
