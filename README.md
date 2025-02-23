@@ -5,7 +5,7 @@ I'm a passionate **Backend Web Developer** with expertise in **PHP, React.js, My
 
 ## 🚀 Skills & Technologies
 - **Web Development:** PHP (Core, CodeIgniter), Node.js, JavaScript, HTML5, CSS3, Bootstrap
-- **Database Management:** MySQL, MariaDB, Oracle SQL Developer
+- **Database Management:** MySQL, MariaDB, Oracle SQL Developer, PostgreSQL
 - **Programming Languages:** Python, Java, ASP.NET, C++, PHP, Rust
 - **Version Control:** Git
 - **Operating Systems:** Linux, Windows, MacOS
