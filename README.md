@@ -1,7 +1,7 @@
 # Hi there, I'm Chirag Nabhoya! 👋
 
 ## 💻 About Me
-I'm a passionate **Backend Web Developer** with expertise in **PHP, React.js, MySQL, HTML5, and CSS3**. Currently, I'm also pursuing a **Master of Computer Science** at the **Technical University of Bingen**.
+I'm a passionate **Backend Web Developer** with expertise in **PHP, MySQL, HTML5, and CSS3**. Currently, I'm also pursuing a **Master of Computer Science** at the **Technical University of Bingen**.
 
 ## 🚀 Skills & Technologies
 - **Web Development:** PHP (Core, CodeIgniter), Node.js, JavaScript, HTML5, CSS3, Bootstrap
