@@ -34,8 +34,8 @@ I'm a passionate **Backend Web Developer** specializing in **PHP Laravel, MySQL,
 - Used **AJAX** for a seamless user experience.
 
 ## 📚 Education
-🎓 **Master of Computer Science** - Technical University of Bingen (Germany) *(Ongoing)*
-🎓 **Bachelor of Computer Application** - Veer Narmad South Gujarat University (India)
+- 🎓 **Master of Computer Science** - Technical University of Bingen (Germany) *(Ongoing)*
+- 🎓 **Bachelor of Computer Application** - Veer Narmad South Gujarat University (India)
 
 ## 🌍 Languages
 - **English:** Professional Working Proficiency
