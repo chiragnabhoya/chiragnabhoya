@@ -4,12 +4,26 @@
 I'm a passionate **Backend Web Developer** specializing in **PHP Laravel, MySQL, and modern web technologies**. Currently, I'm pursuing a **Master of Computer Science** at the **Technical University of Bingen**.
 
 ## 🚀 Skills & Technologies
-- **Web Development:** PHP (Core, CodeIgniter), Node.js, JavaScript, HTML5, CSS3, Bootstrap
-- **Database Management:** MySQL, MariaDB, Oracle SQL Developer, PostgreSQL
-- **Programming Languages:** Python, Java, ASP.NET, C++, PHP, Rust
-- **Version Control:** Git
+### 🔹 Backend Development
+- **PHP** (Core, Laravel, CodeIgniter)
+- **Node.js**
+- **ASP.NET**
+
+### 🔹 Frontend Development
+- **JavaScript, HTML5, CSS3, Bootstrap**
+- **AJAX, jQuery**
+
+### 🔹 Database Management
+- **MySQL, MariaDB, PostgreSQL, Oracle SQL Developer**
+
+### 🔹 Other Programming Languages
+- **Python, Java, C++, Rust**
+
+### 🔹 DevOps & Tools
+- **Version Control:** Git, GitHub
 - **Operating Systems:** Linux, Windows, MacOS
-- **Tools & Software:** MS Office (Word, Excel, PowerPoint), Postman
+- **API Testing:** Postman
+- **Software Tools:** MS Office (Word, Excel, PowerPoint)
 
 ## 🏆 Projects
 ### 🔹 Online Mobile Shopping System Website
