@@ -5,9 +5,7 @@ I'm a passionate **Backend Web Developer** specializing in **PHP Laravel, MySQL,
 
 ## 🚀 Skills & Technologies
 ### 🔹 Backend Development
-- **PHP** (Core, Laravel, CodeIgniter)
-- **Node.js**
-- **ASP.NET**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
 ### 🔹 Frontend Development
 - **JavaScript, HTML5, CSS3, Bootstrap**
