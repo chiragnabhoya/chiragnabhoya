@@ -27,11 +27,11 @@ I'm a passionate **Backend Web Developer** specializing in **PHP Laravel, MySQL,
 
 ## 🏆 Projects
 ### 🔹 Online Mobile Shopping System Website
-- Developed an **e-commerce website** with **admin, seller, and customer functionalities**.
-- Implemented **MySQL** for efficient data storage and retrieval.
-- Integrated **voice search** and an **online payment system**.
-- Utilized **AJAX** for a smooth user experience.
-- Added features like **product review, wishlist, and recent product view**.
+- Developed a feature-rich **e-commerce platform** using **PHP CodeIgniter**.
+- Integrated **admin, seller, and customer functionalities**.
+- Designed a **secure online payment system**.
+- Implemented **voice search**, **product review system**, **wishlist**, and **recently viewed products**.
+- Used **AJAX** for a seamless user experience.
 
 ## 📚 Education
 🎓 **Master of Computer Science** - Technical University of Bingen (Germany) *(Ongoing)*
