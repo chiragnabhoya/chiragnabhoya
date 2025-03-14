@@ -26,6 +26,7 @@ I'm a passionate **Backend Web Developer** specializing in **PHP Laravel, MySQL,
 - Designed a **secure online payment system**.
 - Implemented **voice search**, **product review system**, **wishlist**, and **recently viewed products**.
 - Used **AJAX** for a seamless user experience.
+- [![Click here to view](https://img.shields.io/badge/View%20Project-%23007bff?style=for-the-badge&logo=github)](https://github.com/chiragnabhoya/mobile_corner)
 
 ## 📚 Education
 - 🎓 **Master of Computer Science** - Technical University of Bingen (Germany) *(Ongoing)*
